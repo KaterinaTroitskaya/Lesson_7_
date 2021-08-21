@@ -6,10 +6,13 @@
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Simple notes</string>
     <string name="sorting">Sorting</string>
+    <string name="about_app_fragment">Приложение создано в ходе обучения на курсе Андроид 1 факультета Андроид разработки Geekbrains.</string>
 
     <string name="menu_home">Notes</string>
     <string name="menu_about_app">About Application</string>
     <string name="avatar">avatar</string>
     <string name="sort_by_date">Sort by date</string>
     <string name="sort_by_name">Sort by name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
